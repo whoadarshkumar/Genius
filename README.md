@@ -13,37 +13,37 @@
 - **Educational Resources**: Access tutorials and educational modules for maximizing platform capabilities.
 
 ## Homepage
-![1](https://github.com/prabhjotschugh/Genius-AI-SaaS/assets/64200536/f54a0298-dfe1-4cb5-bbd7-c67e2cb5487b)
+![1]()
 
 ## Login 
-![Login](https://github.com/prabhjotschugh/Genius-AI-SaaS/assets/64200536/6ebdc6e2-0d86-4475-a052-2afd8dbca850)
+![Login]()
 
 ## Dashboard
-![2](https://github.com/prabhjotschugh/Genius-AI-SaaS/assets/64200536/37c084a7-328b-4eba-a045-a8f4e4471d60)
+![2]()
 
 
 ## Generated Outputs
-![3](https://github.com/prabhjotschugh/Genius-AI-SaaS/assets/64200536/de12efe2-8c9f-4869-9d7e-ba2e0694ccdc)
+![3]()
 
-![4](https://github.com/prabhjotschugh/Genius-AI-SaaS/assets/64200536/fc0a0aa5-9668-43a4-a95a-2939ca426a4f)
+![4]()
 
-![5](https://github.com/prabhjotschugh/Genius-AI-SaaS/assets/64200536/5cd91155-d7d4-4bd4-a02f-efae676ad1ae)
+![5]()
 
-![3](https://github.com/prabhjotschugh/Genius-AI-SaaS/assets/64200536/cfdd2147-0b20-4c28-aca5-a20adea4b1f8)
+![3]()
 
-![2](https://github.com/prabhjotschugh/Genius-AI-SaaS/assets/64200536/b1a78db5-1c6a-478f-ba94-168376021b23)
+![2]()
 
-![1](https://github.com/prabhjotschugh/Genius-AI-SaaS/assets/64200536/80720691-d1c2-4d74-bf9e-d4346d7e9580)
+![1]()
 
 
-![6](https://github.com/prabhjotschugh/Genius-AI-SaaS/assets/64200536/1b226a4b-48da-46e1-8016-8320eb3df1e9)
+![6]()
 
-![7](https://github.com/prabhjotschugh/Genius-AI-SaaS/assets/64200536/762618f3-9107-480e-85bd-406baed3b8e0)
+![7]()
 
-![8](https://github.com/prabhjotschugh/Genius-AI-SaaS/assets/64200536/c3f52408-819b-4e44-a100-a32b64ca4267)
+![8]()
 
 ## Live Demo
-https://github.com/prabhjotschugh/Genius-AI-SaaS/assets/64200536/09876671-ada1-4647-9275-6c502bbc05b5
+
 
 
 To run the app - 
@@ -90,3 +90,4 @@ npx prisma generate
 ```shell
 npm run dev
 ```
+# Genius
