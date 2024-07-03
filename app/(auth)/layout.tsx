@@ -9,5 +9,6 @@ const AuthLayout = ({
       </main>
     );
   }
+  
    
   export default AuthLayout;
